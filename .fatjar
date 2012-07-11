@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Aug 23 16:09:07 IST 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MerkleDncFeedPartner.jar
+manifest.mergeall=true
+manifest.mainclass=src.com.directv.merkle.fileprocess.MerkleDncFeed
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

@@ -1,0 +1,21 @@
+*DNC__C.ID,18
+*DNC__c.Record_Number__c,6
+*DNC__c.Call__r.Vendor_ID__c,4
+*DNC__c.Call__r.Vendor_Name__c,50
+*DNC__c.Call__r.Call_Start_Time__c,8
+*DNC__c.Call__r.First_Name__c,40
+*DNC__c.Call__r.Last_Name__c,80
+*DNC__c.DNC_Street_Address_1__c,75
+*DNC__c.DNC_Street_Address_2__c,75
+*DNC__c.DNC_Unit__c,10
+*DNC__c.DNC_City__c,50
+*DNC__c.DNC_State__c ,2
+*DNC__c.DNC_Postal_Code__c ,10
+*<FILLER>,50
+*DNC__c.DNC_Phone_Number__c ,3
+*DNC__c.DNC_Phone_Number__c ,7
+*DNC__c.DNC_Email_Address__c ,80
+*DNC__c.Suppression_Code__c ,2
+*DNC__c.Call__r.Prospect__r.Name ,20
+*DNC__c.Violation__c ,1
+*DNC__c.Datetest__c,25

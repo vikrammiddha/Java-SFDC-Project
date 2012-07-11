@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Common"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/astadia/Java Projects/partner/bin/partner.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/axis.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/backport-util-concurrent-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/CSVUtils.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/enterprise.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/http.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxb1-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxb-api_1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/joda-time-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/jsr250-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/saaj-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/sjsxp.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/streambuffer.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/wrappertest.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/vmiddha/My Documents/Google Talk Received Files/lib-1/lib/wsdl4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
